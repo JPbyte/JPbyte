@@ -1,7 +1,8 @@
 ### 
 <h1>Hi 👋, i'am João Pedro, Desenvolvedor Front-End</h1>
-  <div align="initial">
+  <div align="center">
     <h3>-📚<strong>Cursando superior em Analise e Desenvolvimento de Sistemas</strong></h3>
+    <h3>-📚Student</h3>
     <h3>-🎮Gamer</h3>
   </div>
 <div style="display" align="center">
