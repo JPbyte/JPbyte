@@ -4,6 +4,7 @@
     <h3>-📚<strong>Cursando superior em Analise e Desenvolvimento de Sistemas</strong></h3>
     <h3>-📚Student</h3>
     <h3>-🎮Gamer</h3>
+    <h3>-💸Crypto enthusiasti</h3>
   </div>
 <div style="display" align="center">
   <a href="https://github.com/JPbyte">
