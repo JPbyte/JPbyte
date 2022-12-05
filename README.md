@@ -3,6 +3,7 @@
   <div align="center">
     <h3>-📚<strong>Cursando superior em Analise e Desenvolvimento de Sistemas</strong></h3>
     <h3>-📚Student Fullstack</h3>
+    <h3<-Start study for react</h3>
     <h3>-🎮Gamer</h3>
     <h3>-💸Crypto enthusiast</h3>
   </div>
