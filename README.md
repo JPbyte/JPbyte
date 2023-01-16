@@ -1,10 +1,9 @@
 ### 
 <h1>Hi 👋, i'am João Pedro, software student</h1>
-  <div align="center">
+  <div align="flex-start">
     <h3>-📚<strong>Cursando superior em Analise e Desenvolvimento de Sistemas</strong></h3>
     <h3>⚛-Start study for react</h3>
     <h3>-🎮Gamer</h3>
-    <h3>-💸Crypto enthusiast</h3>
   </div>
 <div style="display" align="center">
   <a href="https://github.com/JPbyte">
