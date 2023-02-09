@@ -10,8 +10,8 @@
   </div>
 <div style="display" align="flex-start">
   <a href="https://github.com/JPbyte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPbyte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPbyte&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JPbyte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPbyte&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <h2>Tecnologias:</h2>
 <div style="display: inline_block">
