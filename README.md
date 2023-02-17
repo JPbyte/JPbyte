@@ -5,7 +5,7 @@
 
   <div align="flex-start">
     <h3>-📚<strong>Cursando superior em Analise e Desenvolvimento de Sistemas</strong></h3>
-    <h3>-📚-Eternal student, currently studying javascript and react</h3>
+    <h3>-📚-Eterno estudante, atualmente estudando javascript e react</h3>
     <h3>-🎮Gamer</h3>
   </div>
 <div style="display" align="flex-start">
