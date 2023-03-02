@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=100&section=header"/>
 ### 
 <h1>Hi 👋, i'm João Pedro, Front-End student</h1>
 
