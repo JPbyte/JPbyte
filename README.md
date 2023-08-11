@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=266cb1&height=100&section=header"/>
-<h1>Oi 👋, meu nome é João Pedro</h1>
+<h1>Hello World!!, sou o João Pedro</h1>
 
 ![68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966](https://user-images.githubusercontent.com/109706085/217960398-1db903da-a2f1-4379-bf42-e3c25fdc6e97.gif)
 
@@ -10,8 +10,8 @@
   </div>
 <div style="display" align="flex-start">
   <a href="https://github.com/JPbyte">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JPbyte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPbyte&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JPbyte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPbyte&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <h2>Tecnologias:</h2>
 <div style="display: inline_block">
