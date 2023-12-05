@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=266cb1&height=100&section=header"/>
-<h1>Hello World!!, sou o João Pedro</h1>
+<h1>Hello World!!, meu nome é João Pedro</h1>
 
 ![68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966](https://user-images.githubusercontent.com/109706085/217960398-1db903da-a2f1-4379-bf42-e3c25fdc6e97.gif)
 
   <div align="flex-start">
     <h3>-📚<strong>Cursando superior em Analise e Desenvolvimento de Sistemas</strong></h3>
-    <h3>-📚-Eterno estudante, atualmente estudando javascript e react</h3>
+    <h3>-📚-Estudando java</h3>
     <h3>-🎮Gamer</h3>
   </div>
 <div style="display" align="flex-start">
