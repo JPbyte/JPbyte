@@ -4,7 +4,7 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966](https://user-images.githubusercontent.com/109706085/217960398-1db903da-a2f1-4379-bf42-e3c25fdc6e97.gif)
 
   <div align="flex-start">
-    <h3>-📚<strong>Cursando superior em Analise e Desenvolvimento de Sistemas</strong></h3>
+    <h3>-📚<strong>Estudante de Engenharia da Computação</strong></h3>
     <h3>-📚-Estudando java</h3>
     <h3>-🎮Gamer</h3>
   </div>
@@ -17,11 +17,8 @@
 <div style="display: inline_block">
   <img align="center" alt="JPbyte-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JPbyte-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JPbyte-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JPbyte-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JPbyte-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="50" height="35"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="35"/>
   <img align="center" alt="JPbyte-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
