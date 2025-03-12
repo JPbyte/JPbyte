@@ -21,6 +21,8 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="35"/>
   <img align="center" alt="JPbyte-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="JPbyte-spring" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+          
 </div>
 <h2>Mídias sociais:</h2>
 <div style="display: inline_block">
